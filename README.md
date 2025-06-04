@@ -6,6 +6,6 @@ The indicator supports all sorts of alerts, it can display higher timeframe valu
 
 ![Vortex Ultimate in multi-timeframe mode in MT5](https://github.com/EarnForex/Vortex-Ultimate/blob/main/README_Images/mt5-vortex-ultimate-indicator-mtf-m5-chart.png)
 
-You can find more information about this custom MetaTrader/cTrader indicator on its description page: https://www.earnforex.com/metatrader-indicators/Vortex-Ultimate/
+You can find more information about this custom MetaTrader/cTrader indicator on its description page: https://www.earnforex.com/indicators/Vortex-Ultimate/
 
 Any contributions to the code are welcome!
